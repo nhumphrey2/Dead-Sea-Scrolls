@@ -1,21 +1,21 @@
 # Curated List of Useful Links for Software Developers
 
 
-* [https://frontendmasters.com/books/front-end-handbook/2018/2018.html]
+* https://frontendmasters.com/books/front-end-handbook/2018/2018.html
 
-* [http://archive.psc-cuny.org/Feb%2006%20Newsletter.pdf]
+* http://archive.psc-cuny.org/Feb%2006%20Newsletter.pdf
 
-* [https://www.reddit.com/r/webdev/comments/9xi875/which_industry_buzzwords_rustle_your_jimmies_the/]
+* https://www.reddit.com/r/webdev/comments/9xi875/which_industry_buzzwords_rustle_your_jimmies_the/
 
-* [https://www.netlify.com]
+* https://www.netlify.com
 
-https://imageoptim.com/mac
+* https://imageoptim.com/mac
 
-https://evilmartians.com/chronicles/five-years-of-postcss-state-of-the-union
+* https://evilmartians.com/chronicles/five-years-of-postcss-state-of-the-union
 
-https://nginxconfig.io
+* https://nginxconfig.io
 
-https://squoosh.app
+* https://squoosh.app
 
 https://30secondsofinterviews.org
 
