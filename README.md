@@ -3,8 +3,6 @@
 
 * [Front End HandBook](https://frontendmasters.com/books/front-end-handbook/2018/2018.html)
 
-* [Archive](http://archive.psc-cuny.org/Feb%2006%20Newsletter.pdf)
-
 * [Hilarious Industry Buzzwords](https://www.reddit.com/r/webdev/comments/9xi875/which_industry_buzzwords_rustle_your_jimmies_the/)
 
 * [Free hosting](https://www.netlify.com)
