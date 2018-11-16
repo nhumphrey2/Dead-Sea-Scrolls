@@ -1,13 +1,13 @@
 # Curated List of Useful Links for Software Developers
 
 
-[Front End Masters]: (https://frontendmasters.com/books/front-end-handbook/2018/2018.html)
+* [https://frontendmasters.com/books/front-end-handbook/2018/2018.html]
 
-* (http://archive.psc-cuny.org/Feb%2006%20Newsletter.pdf)
+* [http://archive.psc-cuny.org/Feb%2006%20Newsletter.pdf]
 
-* (https://www.reddit.com/r/webdev/comments/9xi875/which_industry_buzzwords_rustle_your_jimmies_the/)
+* [https://www.reddit.com/r/webdev/comments/9xi875/which_industry_buzzwords_rustle_your_jimmies_the/]
 
-https://www.netlify.com
+* [https://www.netlify.com]
 
 https://imageoptim.com/mac
 
