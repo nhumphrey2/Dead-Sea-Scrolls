@@ -1,7 +1,6 @@
 # Curated List of Useful Links for Software Developers
 
-
-* https://frontendmasters.com/books/front-end-handbook/2018/2018.html
+* [Front End HandBook](https://frontendmasters.com/books/front-end-handbook/2018/2018.html)
 
 * http://archive.psc-cuny.org/Feb%2006%20Newsletter.pdf
 
