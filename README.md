@@ -5,6 +5,8 @@
 
 * [Front-End Developer Checklist](https://www.dropbox.com/s/8h9lo8ee65oo9y1/front-end-performance-checklist-2018.pdf?dl=0)
 
+* [Front-end Web Dev Skills in 2018](https://omahacode.com/front-end-web-developer-job-titles-in-2018/)
+
 * [Hilarious Industry Buzzwords](https://www.reddit.com/r/webdev/comments/9xi875/which_industry_buzzwords_rustle_your_jimmies_the/)
 
 * [Free hosting](https://www.netlify.com)
@@ -56,3 +58,4 @@ https://i.redd.it/9kuy6777t5n01.jpg
 
 
 #### [User Experience Omaha](https://uxomaha.com/)
+#### [Omaha Code](https://omahacode.com/)
