@@ -52,5 +52,7 @@ https://i.redd.it/9kuy6777t5n01.jpg
 
 * [Huge Themes](https://themes.gohugo.io/)
 
+* [Redirect Regular Expressions](https://redirection.me/support/redirect-regular-expressions/)
+
 
 #### [User Experience Omaha](https://uxomaha.com/)
