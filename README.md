@@ -3,6 +3,8 @@
 
 * [Front End HandBook](https://frontendmasters.com/books/front-end-handbook/2018/2018.html)
 
+* [Front-End Developer Checklist](https://www.dropbox.com/s/8h9lo8ee65oo9y1/front-end-performance-checklist-2018.pdf?dl=0)
+
 * [Hilarious Industry Buzzwords](https://www.reddit.com/r/webdev/comments/9xi875/which_industry_buzzwords_rustle_your_jimmies_the/)
 
 * [Free hosting](https://www.netlify.com)
