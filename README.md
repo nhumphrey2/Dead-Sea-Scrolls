@@ -34,7 +34,8 @@ https://i.redd.it/9kuy6777t5n01.jpg
 
 * [Public API List](https://github.com/toddmotto/public-apis/blob/master/README.md)
 
-* (https://progressivetooling.com)
+* [Progressive Tooling](https://progressivetooling.com)
+A list of community-built, third-party tools that can be used to improve page performance
 
 * [Front End Case Studies](https://github.com/andrew--r/frontend-case-studies/blob/master/readme.md#linkedin)
 
