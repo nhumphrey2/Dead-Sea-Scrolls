@@ -64,6 +64,9 @@ web.dev is the ultimate resource for developers of all backgrounds to learn, cre
 
 * [Cloudflare](https://www.cloudflare.com/)
 
+* [WordPress & React](https://medium.freecodecamp.org/how-to-build-react-apps-on-top-of-the-wordpress-rest-api-bcc632808025)
+
+* [React-WP](https://wp-and-react.com)
 
 #### [User Experience Omaha](https://uxomaha.com/)
 #### [Omaha Code](https://omahacode.com/)
