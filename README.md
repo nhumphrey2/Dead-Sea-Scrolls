@@ -40,6 +40,7 @@ A list of community-built, third-party tools that can be used to improve page pe
 * [Front End Case Studies](https://github.com/andrew--r/frontend-case-studies/blob/master/readme.md#linkedin)
 
 * [Visual Studio Can Do That?](https://vscodecandothat.com)
+All the best things about Visual Studio Code that nobody ever bothered to tell you
 
 * [WordPress Checklist](https://github.com/huyingjie/Checklist-Checklist/blob/master/README.md#WordPress)
 
