@@ -56,6 +56,8 @@ https://i.redd.it/9kuy6777t5n01.jpg
 
 * [Redirect Regular Expressions](https://redirection.me/support/redirect-regular-expressions/)
 
+* [Web.Dev Beta - Google Performance Tester](https://web.dev/measure)
+
 
 #### [User Experience Omaha](https://uxomaha.com/)
 #### [Omaha Code](https://omahacode.com/)
