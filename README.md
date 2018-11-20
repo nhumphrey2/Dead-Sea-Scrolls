@@ -16,6 +16,7 @@
 * [Libraries](https://evilmartians.com/chronicles/five-years-of-postcss-state-of-the-union)
 
 * [https://nginxconfig.io](https://nginxconfig.io)
+NGiИX configuration generator: HTTPS, HTTP2, CDN, PHP, HHVM, Frontend, Reverse proxy, Node.js, WordPress, Drupal, security headers, rate limiting, expiration by file types…
 
 * [https://squoosh.app](https://squoosh.app)
 
