@@ -78,5 +78,7 @@ web.dev is the ultimate resource for developers of all backgrounds to learn, cre
 
 * [Open Source FREE CDN Libraries](https://cdnjs.com/)
 
+* [W3 standards Guide Preconnect, Preload, Prefetch](https://w3c.github.io/resource-hints/#resource-hints)
+
 #### [User Experience Omaha](https://uxomaha.com/)
 #### [Omaha Code](https://omahacode.com/)
