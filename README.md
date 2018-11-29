@@ -74,5 +74,7 @@ web.dev is the ultimate resource for developers of all backgrounds to learn, cre
 
 * [Preconnect Key CDN](https://www.keycdn.com/support/preconnect#primary)
 
+* [Preload, Preconnect, Prefetch Guide](https://www.keycdn.com/blog/resource-hints)
+
 #### [User Experience Omaha](https://uxomaha.com/)
 #### [Omaha Code](https://omahacode.com/)
