@@ -55,7 +55,7 @@ All the best things about Visual Studio Code that nobody ever bothered to tell y
 
 * [How to use Github](https://www.reddit.com/r/webdev/comments/9gt11s/im_trying_to_use_a_github_project_but_i_dont_know/)
 
-* [Huge Themes](https://themes.gohugo.io/)
+* [Huge WordPress Themes](https://themes.gohugo.io/)
 
 * [Redirect Regular Expressions](https://redirection.me/support/redirect-regular-expressions/)
 
@@ -69,6 +69,10 @@ web.dev is the ultimate resource for developers of all backgrounds to learn, cre
 * [React-WP](https://wp-and-react.com)
 
 * [Gatsby React](https://medium.freecodecamp.org/how-i-made-my-portfolio-website-blazing-fast-with-gatsby-82ccddc2f671)
+
+* [Async JS Guide](https://flaviocopes.com/javascript-async-defer/)
+
+* [Preconnect Key CDN](https://www.keycdn.com/support/preconnect#primary)
 
 #### [User Experience Omaha](https://uxomaha.com/)
 #### [Omaha Code](https://omahacode.com/)
