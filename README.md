@@ -80,5 +80,7 @@ web.dev is the ultimate resource for developers of all backgrounds to learn, cre
 
 * [W3 standards Guide Preconnect, Preload, Prefetch](https://w3c.github.io/resource-hints/#resource-hints)
 
+* [WP Super Cache + Cloudflare Cache setup](https://onlinemediamasters.com/wp-super-cache-settings/)
+
 #### [User Experience Omaha](https://uxomaha.com/)
 #### [Omaha Code](https://omahacode.com/)
