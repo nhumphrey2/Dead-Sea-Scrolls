@@ -86,5 +86,7 @@ web.dev is the ultimate resource for developers of all backgrounds to learn, cre
 
 * [Dev Hints](https://devhints.io/)
 
+* [Visual Studio Code Shortcuts](https://devhints.io/vscode)
+
 #### [User Experience Omaha](https://uxomaha.com/)
 #### [Omaha Code](https://omahacode.com/)
