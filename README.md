@@ -82,5 +82,7 @@ web.dev is the ultimate resource for developers of all backgrounds to learn, cre
 
 * [WP Super Cache + Cloudflare Cache setup](https://onlinemediamasters.com/wp-super-cache-settings/)
 
+* [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+
 #### [User Experience Omaha](https://uxomaha.com/)
 #### [Omaha Code](https://omahacode.com/)
