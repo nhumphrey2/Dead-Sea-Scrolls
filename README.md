@@ -84,5 +84,7 @@ web.dev is the ultimate resource for developers of all backgrounds to learn, cre
 
 * [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
+* [Dev Hints](https://devhints.io/)
+
 #### [User Experience Omaha](https://uxomaha.com/)
 #### [Omaha Code](https://omahacode.com/)
