@@ -98,3 +98,8 @@ web.dev is the ultimate resource for developers of all backgrounds to learn, cre
 
 #### [User Experience Omaha](https://uxomaha.com/)
 #### [Omaha Code](https://omahacode.com/)
+#### [Omaha Code Blog](https://omahacode.com/omaha-code-blog/)
+#### [Aquaman.io](https://aquaman.io/)
+#### [Create a Free CDN](https://omahacode.com/how-to-create-your-own-free-content-delivery-network-cdn/#How_to_setup_your_own_free_CDN)
+#### [Cloudinary Dev Experts](https://omahacode.com/2019-developer-experts/)#### [Cloudinary Dev Experts](https://omahacode.com/2019-developer-experts/)
+
