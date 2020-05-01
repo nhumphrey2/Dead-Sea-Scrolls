@@ -84,7 +84,7 @@ web.dev is the ultimate resource for developers of all backgrounds to learn, cre
 
 * [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
-* [Dev Hints](https://devhints.io/)
+* [15 Awesome Visual Studio Code Extensions](https://omahacode.com/visual-studio-code-15-useful-extensions/)
 
 * [Visual Studio Code Shortcuts](https://devhints.io/vscode)
 
@@ -103,5 +103,3 @@ web.dev is the ultimate resource for developers of all backgrounds to learn, cre
 #### [Create a Free CDN](https://omahacode.com/how-to-create-your-own-free-content-delivery-network-cdn/#How_to_setup_your_own_free_CDN)
 #### [OTF Clothing Brand Amazon](https://www.chiraqdrill.com/otf-clothing-brand/)
 #### [Cloudinary Dev Experts](https://omahacode.com/2019-developer-experts/)
-#### [Cloudinary Dev Experts](https://omahacode.com/2019-developer-experts/)
-
