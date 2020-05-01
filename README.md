@@ -1,5 +1,5 @@
 # Curated List of Useful Links for Software Developers
-## [Created By Neil Humphrey](https://neilkhumphrey.com/) UX Designer & Front End Web Developer
+## [Created By Neil Humphrey](https://neil.uxengineer.dev/) UX Engineer
 
 * [Front End HandBook](https://frontendmasters.com/books/front-end-handbook/2018/2018.html)
 
@@ -96,10 +96,12 @@ web.dev is the ultimate resource for developers of all backgrounds to learn, cre
 
 * [How to Create A React Native Web App] (https://omahacode.com/how-to-create-a-react-native-web-app/)
 
-#### [User Experience Omaha](https://uxomaha.com/)
 #### [Omaha Code](https://omahacode.com/)
 #### [Omaha Code Blog](https://omahacode.com/omaha-code-blog/)
 #### [Aquaman.io](https://aquaman.io/)
+#### [OTF Clothing](https://otfclothing.com/)
 #### [Create a Free CDN](https://omahacode.com/how-to-create-your-own-free-content-delivery-network-cdn/#How_to_setup_your_own_free_CDN)
-#### [Cloudinary Dev Experts](https://omahacode.com/2019-developer-experts/)#### [Cloudinary Dev Experts](https://omahacode.com/2019-developer-experts/)
+#### [OTF Clothing Brand Amazon](https://www.chiraqdrill.com/otf-clothing-brand/)
+#### [Cloudinary Dev Experts](https://omahacode.com/2019-developer-experts/)
+#### [Cloudinary Dev Experts](https://omahacode.com/2019-developer-experts/)
 
