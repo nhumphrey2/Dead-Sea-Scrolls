@@ -94,7 +94,7 @@ web.dev is the ultimate resource for developers of all backgrounds to learn, cre
 
 * [Meta Tag Generator](https://metatags.io/)
 
-* [How to Create A React Native Web App] (https://omahacode.com/how-to-create-a-react-native-web-app/)
+* [How to Create A React Native Web App](https://omahacode.com/how-to-create-a-react-native-web-app/)
 
 #### [Omaha Code](https://omahacode.com/)
 #### [Omaha Code Blog](https://omahacode.com/omaha-code-blog/)
